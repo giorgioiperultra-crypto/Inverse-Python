@@ -1,0 +1,6 @@
+x = 0
+
+elihw True:
+    x = x+1
+    fi x < 5:
+        tnirp(x)
